@@ -35,3 +35,5 @@ passport.use('local-login',
     }
   )
 );
+
+module.exports = passport;
